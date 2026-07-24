@@ -3142,3 +3142,19 @@ Contribution: 2026-01-05 20:01
 
 Contribution: 2026-01-05 20:02
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0553-optimal-division](https://github.com/sehaj141/myrepository/tree/main/0553-optimal-division/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0553-optimal-division](https://github.com/sehaj141/myrepository/tree/main/0553-optimal-division/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0553-optimal-division](https://github.com/sehaj141/myrepository/tree/main/0553-optimal-division/) | Medium |
+<!---LeetCode Topics End-->
