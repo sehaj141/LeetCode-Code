@@ -3163,4 +3163,13 @@ Contribution: 2026-01-05 20:02
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/sehaj141/myrepository/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0791-custom-sort-string](https://github.com/sehaj141/myrepository/tree/main/0791-custom-sort-string/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0791-custom-sort-string](https://github.com/sehaj141/myrepository/tree/main/0791-custom-sort-string/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0791-custom-sort-string](https://github.com/sehaj141/myrepository/tree/main/0791-custom-sort-string/) | Medium |
 <!---LeetCode Topics End-->
