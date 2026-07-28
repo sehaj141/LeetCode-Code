@@ -3152,6 +3152,7 @@ Contribution: 2026-01-05 20:02
 | [0628-maximum-product-of-three-numbers](https://github.com/sehaj141/myrepository/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0740-delete-and-earn](https://github.com/sehaj141/myrepository/tree/main/0740-delete-and-earn/) | Medium |
 | [0741-cherry-pickup](https://github.com/sehaj141/myrepository/tree/main/0741-cherry-pickup/) | Hard |
+| [0764-largest-plus-sign](https://github.com/sehaj141/myrepository/tree/main/0764-largest-plus-sign/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/sehaj141/myrepository/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0825-friends-of-appropriate-ages](https://github.com/sehaj141/myrepository/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/sehaj141/myrepository/tree/main/0826-most-profit-assigning-work/) | Medium |
@@ -3167,6 +3168,7 @@ Contribution: 2026-01-05 20:02
 | [0730-count-different-palindromic-subsequences](https://github.com/sehaj141/myrepository/tree/main/0730-count-different-palindromic-subsequences/) | Hard |
 | [0740-delete-and-earn](https://github.com/sehaj141/myrepository/tree/main/0740-delete-and-earn/) | Medium |
 | [0741-cherry-pickup](https://github.com/sehaj141/myrepository/tree/main/0741-cherry-pickup/) | Hard |
+| [0764-largest-plus-sign](https://github.com/sehaj141/myrepository/tree/main/0764-largest-plus-sign/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/sehaj141/myrepository/tree/main/0792-number-of-matching-subsequences/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
