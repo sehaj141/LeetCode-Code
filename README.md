@@ -3159,6 +3159,7 @@ Contribution: 2026-01-05 20:02
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0398-random-pick-index](https://github.com/sehaj141/myrepository/tree/main/0398-random-pick-index/) | Medium |
 | [0553-optimal-division](https://github.com/sehaj141/myrepository/tree/main/0553-optimal-division/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/sehaj141/myrepository/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 ## Dynamic Programming
@@ -3181,6 +3182,7 @@ Contribution: 2026-01-05 20:02
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0398-random-pick-index](https://github.com/sehaj141/myrepository/tree/main/0398-random-pick-index/) | Medium |
 | [0740-delete-and-earn](https://github.com/sehaj141/myrepository/tree/main/0740-delete-and-earn/) | Medium |
 | [0791-custom-sort-string](https://github.com/sehaj141/myrepository/tree/main/0791-custom-sort-string/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/sehaj141/myrepository/tree/main/0792-number-of-matching-subsequences/) | Medium |
@@ -3213,4 +3215,12 @@ Contribution: 2026-01-05 20:02
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0741-cherry-pickup](https://github.com/sehaj141/myrepository/tree/main/0741-cherry-pickup/) | Hard |
+## Reservoir Sampling
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0398-random-pick-index](https://github.com/sehaj141/myrepository/tree/main/0398-random-pick-index/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0398-random-pick-index](https://github.com/sehaj141/myrepository/tree/main/0398-random-pick-index/) | Medium |
 <!---LeetCode Topics End-->
