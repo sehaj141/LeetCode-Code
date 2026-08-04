@@ -3148,6 +3148,7 @@ Contribution: 2026-01-05 20:02
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/sehaj141/myrepository/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0553-optimal-division](https://github.com/sehaj141/myrepository/tree/main/0553-optimal-division/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/sehaj141/myrepository/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0740-delete-and-earn](https://github.com/sehaj141/myrepository/tree/main/0740-delete-and-earn/) | Medium |
@@ -3210,6 +3211,7 @@ Contribution: 2026-01-05 20:02
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/sehaj141/myrepository/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0400-nth-digit](https://github.com/sehaj141/myrepository/tree/main/0400-nth-digit/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/sehaj141/myrepository/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0825-friends-of-appropriate-ages](https://github.com/sehaj141/myrepository/tree/main/0825-friends-of-appropriate-ages/) | Medium |
@@ -3232,6 +3234,7 @@ Contribution: 2026-01-05 20:02
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/sehaj141/myrepository/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0741-cherry-pickup](https://github.com/sehaj141/myrepository/tree/main/0741-cherry-pickup/) | Hard |
 ## Reservoir Sampling
 | Problem Name | Difficulty |
