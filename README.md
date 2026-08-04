@@ -3165,6 +3165,7 @@ Contribution: 2026-01-05 20:02
 | [0400-nth-digit](https://github.com/sehaj141/myrepository/tree/main/0400-nth-digit/) | Medium |
 | [0553-optimal-division](https://github.com/sehaj141/myrepository/tree/main/0553-optimal-division/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/sehaj141/myrepository/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0899-orderly-queue](https://github.com/sehaj141/myrepository/tree/main/0899-orderly-queue/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -3183,6 +3184,7 @@ Contribution: 2026-01-05 20:02
 | [0825-friends-of-appropriate-ages](https://github.com/sehaj141/myrepository/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/sehaj141/myrepository/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0893-groups-of-special-equivalent-strings](https://github.com/sehaj141/myrepository/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
+| [0899-orderly-queue](https://github.com/sehaj141/myrepository/tree/main/0899-orderly-queue/) | Hard |
 | [3731-find-missing-elements](https://github.com/sehaj141/myrepository/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -3200,6 +3202,7 @@ Contribution: 2026-01-05 20:02
 | [0791-custom-sort-string](https://github.com/sehaj141/myrepository/tree/main/0791-custom-sort-string/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/sehaj141/myrepository/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0893-groups-of-special-equivalent-strings](https://github.com/sehaj141/myrepository/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
+| [0899-orderly-queue](https://github.com/sehaj141/myrepository/tree/main/0899-orderly-queue/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -3232,4 +3235,8 @@ Contribution: 2026-01-05 20:02
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0398-random-pick-index](https://github.com/sehaj141/myrepository/tree/main/0398-random-pick-index/) | Medium |
+## Lexicographically Minimal String Rotation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0899-orderly-queue](https://github.com/sehaj141/myrepository/tree/main/0899-orderly-queue/) | Hard |
 <!---LeetCode Topics End-->
