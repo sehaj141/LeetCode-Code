@@ -3206,6 +3206,7 @@ Contribution: 2026-01-05 20:02
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0038-count-and-say](https://github.com/sehaj141/myrepository/tree/main/0038-count-and-say/) | Medium |
 | [0730-count-different-palindromic-subsequences](https://github.com/sehaj141/myrepository/tree/main/0730-count-different-palindromic-subsequences/) | Hard |
 | [0791-custom-sort-string](https://github.com/sehaj141/myrepository/tree/main/0791-custom-sort-string/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/sehaj141/myrepository/tree/main/0792-number-of-matching-subsequences/) | Medium |
