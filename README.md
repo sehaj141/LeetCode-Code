@@ -3159,6 +3159,7 @@ Contribution: 2026-01-05 20:02
 | [0825-friends-of-appropriate-ages](https://github.com/sehaj141/myrepository/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/sehaj141/myrepository/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0870-advantage-shuffle](https://github.com/sehaj141/myrepository/tree/main/0870-advantage-shuffle/) | Medium |
+| [0881-boats-to-save-people](https://github.com/sehaj141/myrepository/tree/main/0881-boats-to-save-people/) | Medium |
 | [0893-groups-of-special-equivalent-strings](https://github.com/sehaj141/myrepository/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/sehaj141/myrepository/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/sehaj141/myrepository/tree/main/0922-sort-array-by-parity-ii/) | Easy |
@@ -3193,6 +3194,7 @@ Contribution: 2026-01-05 20:02
 | [0825-friends-of-appropriate-ages](https://github.com/sehaj141/myrepository/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/sehaj141/myrepository/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0870-advantage-shuffle](https://github.com/sehaj141/myrepository/tree/main/0870-advantage-shuffle/) | Medium |
+| [0881-boats-to-save-people](https://github.com/sehaj141/myrepository/tree/main/0881-boats-to-save-people/) | Medium |
 | [0893-groups-of-special-equivalent-strings](https://github.com/sehaj141/myrepository/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0899-orderly-queue](https://github.com/sehaj141/myrepository/tree/main/0899-orderly-queue/) | Hard |
 | [0905-sort-array-by-parity](https://github.com/sehaj141/myrepository/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -3243,6 +3245,7 @@ Contribution: 2026-01-05 20:02
 | [0825-friends-of-appropriate-ages](https://github.com/sehaj141/myrepository/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/sehaj141/myrepository/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0870-advantage-shuffle](https://github.com/sehaj141/myrepository/tree/main/0870-advantage-shuffle/) | Medium |
+| [0881-boats-to-save-people](https://github.com/sehaj141/myrepository/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/sehaj141/myrepository/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/sehaj141/myrepository/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 ## Greedy
@@ -3250,6 +3253,7 @@ Contribution: 2026-01-05 20:02
 | ------- | ------- |
 | [0826-most-profit-assigning-work](https://github.com/sehaj141/myrepository/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0870-advantage-shuffle](https://github.com/sehaj141/myrepository/tree/main/0870-advantage-shuffle/) | Medium |
+| [0881-boats-to-save-people](https://github.com/sehaj141/myrepository/tree/main/0881-boats-to-save-people/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sehaj141/myrepository/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sehaj141/myrepository/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Matrix
@@ -3326,4 +3330,8 @@ Contribution: 2026-01-05 20:02
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sehaj141/myrepository/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+## Timsort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/sehaj141/myrepository/tree/main/0881-boats-to-save-people/) | Medium |
 <!---LeetCode Topics End-->
