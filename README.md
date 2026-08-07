@@ -3158,6 +3158,7 @@ Contribution: 2026-01-05 20:02
 | [0792-number-of-matching-subsequences](https://github.com/sehaj141/myrepository/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0825-friends-of-appropriate-ages](https://github.com/sehaj141/myrepository/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/sehaj141/myrepository/tree/main/0826-most-profit-assigning-work/) | Medium |
+| [0870-advantage-shuffle](https://github.com/sehaj141/myrepository/tree/main/0870-advantage-shuffle/) | Medium |
 | [0893-groups-of-special-equivalent-strings](https://github.com/sehaj141/myrepository/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/sehaj141/myrepository/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/sehaj141/myrepository/tree/main/0922-sort-array-by-parity-ii/) | Easy |
@@ -3191,6 +3192,7 @@ Contribution: 2026-01-05 20:02
 | [0792-number-of-matching-subsequences](https://github.com/sehaj141/myrepository/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0825-friends-of-appropriate-ages](https://github.com/sehaj141/myrepository/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/sehaj141/myrepository/tree/main/0826-most-profit-assigning-work/) | Medium |
+| [0870-advantage-shuffle](https://github.com/sehaj141/myrepository/tree/main/0870-advantage-shuffle/) | Medium |
 | [0893-groups-of-special-equivalent-strings](https://github.com/sehaj141/myrepository/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0899-orderly-queue](https://github.com/sehaj141/myrepository/tree/main/0899-orderly-queue/) | Hard |
 | [0905-sort-array-by-parity](https://github.com/sehaj141/myrepository/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -3240,12 +3242,14 @@ Contribution: 2026-01-05 20:02
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sehaj141/myrepository/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0825-friends-of-appropriate-ages](https://github.com/sehaj141/myrepository/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/sehaj141/myrepository/tree/main/0826-most-profit-assigning-work/) | Medium |
+| [0870-advantage-shuffle](https://github.com/sehaj141/myrepository/tree/main/0870-advantage-shuffle/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/sehaj141/myrepository/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/sehaj141/myrepository/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0826-most-profit-assigning-work](https://github.com/sehaj141/myrepository/tree/main/0826-most-profit-assigning-work/) | Medium |
+| [0870-advantage-shuffle](https://github.com/sehaj141/myrepository/tree/main/0870-advantage-shuffle/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sehaj141/myrepository/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sehaj141/myrepository/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Matrix
