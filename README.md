@@ -3168,6 +3168,7 @@ Contribution: 2026-01-05 20:02
 | [0939-minimum-area-rectangle](https://github.com/sehaj141/myrepository/tree/main/0939-minimum-area-rectangle/) | Medium |
 | [0963-minimum-area-rectangle-ii](https://github.com/sehaj141/myrepository/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/sehaj141/myrepository/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1037-valid-boomerang](https://github.com/sehaj141/myrepository/tree/main/1037-valid-boomerang/) | Easy |
 | [1140-stone-game-ii](https://github.com/sehaj141/myrepository/tree/main/1140-stone-game-ii/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/sehaj141/myrepository/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/sehaj141/myrepository/tree/main/3731-find-missing-elements/) | Easy |
@@ -3184,6 +3185,7 @@ Contribution: 2026-01-05 20:02
 | [0939-minimum-area-rectangle](https://github.com/sehaj141/myrepository/tree/main/0939-minimum-area-rectangle/) | Medium |
 | [0963-minimum-area-rectangle-ii](https://github.com/sehaj141/myrepository/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/sehaj141/myrepository/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1037-valid-boomerang](https://github.com/sehaj141/myrepository/tree/main/1037-valid-boomerang/) | Easy |
 | [1140-stone-game-ii](https://github.com/sehaj141/myrepository/tree/main/1140-stone-game-ii/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sehaj141/myrepository/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sehaj141/myrepository/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -3377,6 +3379,7 @@ Contribution: 2026-01-05 20:02
 | [0939-minimum-area-rectangle](https://github.com/sehaj141/myrepository/tree/main/0939-minimum-area-rectangle/) | Medium |
 | [0963-minimum-area-rectangle-ii](https://github.com/sehaj141/myrepository/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/sehaj141/myrepository/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1037-valid-boomerang](https://github.com/sehaj141/myrepository/tree/main/1037-valid-boomerang/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
