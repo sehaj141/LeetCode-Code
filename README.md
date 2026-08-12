@@ -3230,6 +3230,7 @@ Contribution: 2026-01-05 20:02
 | [0893-groups-of-special-equivalent-strings](https://github.com/sehaj141/myrepository/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0939-minimum-area-rectangle](https://github.com/sehaj141/myrepository/tree/main/0939-minimum-area-rectangle/) | Medium |
 | [0963-minimum-area-rectangle-ii](https://github.com/sehaj141/myrepository/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
+| [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/sehaj141/myrepository/tree/main/1737-change-minimum-characters-to-satisfy-one-of-three-conditions/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sehaj141/myrepository/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3731-find-missing-elements](https://github.com/sehaj141/myrepository/tree/main/3731-find-missing-elements/) | Easy |
 ## String
@@ -3245,6 +3246,7 @@ Contribution: 2026-01-05 20:02
 | [0899-orderly-queue](https://github.com/sehaj141/myrepository/tree/main/0899-orderly-queue/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sehaj141/myrepository/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/sehaj141/myrepository/tree/main/1392-longest-happy-prefix/) | Hard |
+| [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/sehaj141/myrepository/tree/main/1737-change-minimum-characters-to-satisfy-one-of-three-conditions/) | Medium |
 | [2484-count-palindromic-subsequences](https://github.com/sehaj141/myrepository/tree/main/2484-count-palindromic-subsequences/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sehaj141/myrepository/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Binary Search
@@ -3367,6 +3369,7 @@ Contribution: 2026-01-05 20:02
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/sehaj141/myrepository/tree/main/1140-stone-game-ii/) | Medium |
+| [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/sehaj141/myrepository/tree/main/1737-change-minimum-characters-to-satisfy-one-of-three-conditions/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -3398,4 +3401,8 @@ Contribution: 2026-01-05 20:02
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sehaj141/myrepository/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/sehaj141/myrepository/tree/main/1737-change-minimum-characters-to-satisfy-one-of-three-conditions/) | Medium |
 <!---LeetCode Topics End-->
