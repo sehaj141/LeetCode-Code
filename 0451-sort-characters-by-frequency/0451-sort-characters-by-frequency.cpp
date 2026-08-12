@@ -1,43 +1,22 @@
-#include <string>
-#include <vector>
-#include <unordered_map>
-#include <algorithm>
-
-using namespace std;
-
 class Solution {
-private:
-    // Custom comparator: frequency descending, then character ascending
-    static bool comparator(const pair<int, char>& p1, const pair<int, char>& p2) {
-        if (p1.first != p2.first) {
-            return p1.first > p2.first;
-        }
-        return p1.second < p2.second;
-    }
-
 public:
     string frequencySort(string s) {
-        // 1. Count frequencies of all characters safely
-        unordered_map<char, int> freqMap;
-        for (char ch : s) {
-            freqMap[ch]++;
+        unordered_map<char,int> freq;
+        for(char c : s){
+            freq[c]++;
         }
-
-        // 2. Transfer map entries into a vector for sorting
-        vector<pair<int, char>> freqList;
-        for (auto& entry : freqMap) {
-            freqList.push_back({entry.second, entry.first});
+        priority_queue<pair<int,char>> pq;
+        for(auto [ch,cnt] : freq){
+            pq.push({cnt,ch});
         }
+        string res;
+        while(!pq.empty()){
+            auto [cnt,ch] = pq.top();
+            pq.pop();
+            res += string(cnt,ch);
 
-        // 3. Sort using the custom comparator
-        sort(freqList.begin(), freqList.end(), comparator);
-
-        // 4. Reconstruct the sorted string
-        string ans = "";
-        for (const auto& p : freqList) {
-            ans.append(p.first, p.second); // Appends character 'p.first' times
         }
+        return res;
 
-        return ans;
     }
 };
