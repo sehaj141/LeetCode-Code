@@ -3179,6 +3179,7 @@ Contribution: 2026-01-05 20:02
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/sehaj141/myrepository/tree/main/0013-roman-to-integer/) | Easy |
 | [0398-random-pick-index](https://github.com/sehaj141/myrepository/tree/main/0398-random-pick-index/) | Medium |
 | [0400-nth-digit](https://github.com/sehaj141/myrepository/tree/main/0400-nth-digit/) | Medium |
 | [0553-optimal-division](https://github.com/sehaj141/myrepository/tree/main/0553-optimal-division/) | Medium |
@@ -3228,6 +3229,7 @@ Contribution: 2026-01-05 20:02
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/sehaj141/myrepository/tree/main/0013-roman-to-integer/) | Easy |
 | [0398-random-pick-index](https://github.com/sehaj141/myrepository/tree/main/0398-random-pick-index/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sehaj141/myrepository/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0740-delete-and-earn](https://github.com/sehaj141/myrepository/tree/main/0740-delete-and-earn/) | Medium |
@@ -3242,6 +3244,7 @@ Contribution: 2026-01-05 20:02
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/sehaj141/myrepository/tree/main/0013-roman-to-integer/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sehaj141/myrepository/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/sehaj141/myrepository/tree/main/0038-count-and-say/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sehaj141/myrepository/tree/main/0451-sort-characters-by-frequency/) | Medium |
