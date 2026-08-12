@@ -14,9 +14,7 @@ public:
             auto [cnt,ch] = pq.top();
             pq.pop();
             res += string(cnt,ch);
-
         }
         return res;
-
     }
 };
