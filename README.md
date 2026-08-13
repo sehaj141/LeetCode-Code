@@ -3202,6 +3202,7 @@ Contribution: 2026-01-05 20:02
 | [0576-out-of-boundary-paths](https://github.com/sehaj141/myrepository/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/sehaj141/myrepository/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/sehaj141/myrepository/tree/main/0600-non-negative-integers-without-consecutive-ones/) | Hard |
+| [0629-k-inverse-pairs-array](https://github.com/sehaj141/myrepository/tree/main/0629-k-inverse-pairs-array/) | Hard |
 | [0730-count-different-palindromic-subsequences](https://github.com/sehaj141/myrepository/tree/main/0730-count-different-palindromic-subsequences/) | Hard |
 | [0740-delete-and-earn](https://github.com/sehaj141/myrepository/tree/main/0740-delete-and-earn/) | Medium |
 | [0741-cherry-pickup](https://github.com/sehaj141/myrepository/tree/main/0741-cherry-pickup/) | Hard |
