@@ -3199,6 +3199,7 @@ Contribution: 2026-01-05 20:02
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0553-optimal-division](https://github.com/sehaj141/myrepository/tree/main/0553-optimal-division/) | Medium |
+| [0576-out-of-boundary-paths](https://github.com/sehaj141/myrepository/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0730-count-different-palindromic-subsequences](https://github.com/sehaj141/myrepository/tree/main/0730-count-different-palindromic-subsequences/) | Hard |
 | [0740-delete-and-earn](https://github.com/sehaj141/myrepository/tree/main/0740-delete-and-earn/) | Medium |
 | [0741-cherry-pickup](https://github.com/sehaj141/myrepository/tree/main/0741-cherry-pickup/) | Hard |
