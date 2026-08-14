@@ -3158,6 +3158,7 @@ Contribution: 2026-01-05 20:02
 | [0792-number-of-matching-subsequences](https://github.com/sehaj141/myrepository/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0820-short-encoding-of-words](https://github.com/sehaj141/myrepository/tree/main/0820-short-encoding-of-words/) | Medium |
 | [0822-card-flipping-game](https://github.com/sehaj141/myrepository/tree/main/0822-card-flipping-game/) | Medium |
+| [0823-binary-trees-with-factors](https://github.com/sehaj141/myrepository/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [0825-friends-of-appropriate-ages](https://github.com/sehaj141/myrepository/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/sehaj141/myrepository/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0870-advantage-shuffle](https://github.com/sehaj141/myrepository/tree/main/0870-advantage-shuffle/) | Medium |
@@ -3210,6 +3211,7 @@ Contribution: 2026-01-05 20:02
 | [0741-cherry-pickup](https://github.com/sehaj141/myrepository/tree/main/0741-cherry-pickup/) | Hard |
 | [0764-largest-plus-sign](https://github.com/sehaj141/myrepository/tree/main/0764-largest-plus-sign/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/sehaj141/myrepository/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0823-binary-trees-with-factors](https://github.com/sehaj141/myrepository/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [1140-stone-game-ii](https://github.com/sehaj141/myrepository/tree/main/1140-stone-game-ii/) | Medium |
 | [2484-count-palindromic-subsequences](https://github.com/sehaj141/myrepository/tree/main/2484-count-palindromic-subsequences/) | Hard |
 ## Sorting
@@ -3219,6 +3221,7 @@ Contribution: 2026-01-05 20:02
 | [0628-maximum-product-of-three-numbers](https://github.com/sehaj141/myrepository/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0791-custom-sort-string](https://github.com/sehaj141/myrepository/tree/main/0791-custom-sort-string/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/sehaj141/myrepository/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0823-binary-trees-with-factors](https://github.com/sehaj141/myrepository/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [0825-friends-of-appropriate-ages](https://github.com/sehaj141/myrepository/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/sehaj141/myrepository/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0870-advantage-shuffle](https://github.com/sehaj141/myrepository/tree/main/0870-advantage-shuffle/) | Medium |
@@ -3244,6 +3247,7 @@ Contribution: 2026-01-05 20:02
 | [0792-number-of-matching-subsequences](https://github.com/sehaj141/myrepository/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0820-short-encoding-of-words](https://github.com/sehaj141/myrepository/tree/main/0820-short-encoding-of-words/) | Medium |
 | [0822-card-flipping-game](https://github.com/sehaj141/myrepository/tree/main/0822-card-flipping-game/) | Medium |
+| [0823-binary-trees-with-factors](https://github.com/sehaj141/myrepository/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [0893-groups-of-special-equivalent-strings](https://github.com/sehaj141/myrepository/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0939-minimum-area-rectangle](https://github.com/sehaj141/myrepository/tree/main/0939-minimum-area-rectangle/) | Medium |
 | [0963-minimum-area-rectangle-ii](https://github.com/sehaj141/myrepository/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
