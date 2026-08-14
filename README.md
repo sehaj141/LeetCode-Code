@@ -3156,6 +3156,7 @@ Contribution: 2026-01-05 20:02
 | [0741-cherry-pickup](https://github.com/sehaj141/myrepository/tree/main/0741-cherry-pickup/) | Hard |
 | [0764-largest-plus-sign](https://github.com/sehaj141/myrepository/tree/main/0764-largest-plus-sign/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/sehaj141/myrepository/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0820-short-encoding-of-words](https://github.com/sehaj141/myrepository/tree/main/0820-short-encoding-of-words/) | Medium |
 | [0825-friends-of-appropriate-ages](https://github.com/sehaj141/myrepository/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/sehaj141/myrepository/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0870-advantage-shuffle](https://github.com/sehaj141/myrepository/tree/main/0870-advantage-shuffle/) | Medium |
@@ -3240,6 +3241,7 @@ Contribution: 2026-01-05 20:02
 | [0740-delete-and-earn](https://github.com/sehaj141/myrepository/tree/main/0740-delete-and-earn/) | Medium |
 | [0791-custom-sort-string](https://github.com/sehaj141/myrepository/tree/main/0791-custom-sort-string/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/sehaj141/myrepository/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0820-short-encoding-of-words](https://github.com/sehaj141/myrepository/tree/main/0820-short-encoding-of-words/) | Medium |
 | [0893-groups-of-special-equivalent-strings](https://github.com/sehaj141/myrepository/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0939-minimum-area-rectangle](https://github.com/sehaj141/myrepository/tree/main/0939-minimum-area-rectangle/) | Medium |
 | [0963-minimum-area-rectangle-ii](https://github.com/sehaj141/myrepository/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
@@ -3261,6 +3263,7 @@ Contribution: 2026-01-05 20:02
 | [0730-count-different-palindromic-subsequences](https://github.com/sehaj141/myrepository/tree/main/0730-count-different-palindromic-subsequences/) | Hard |
 | [0791-custom-sort-string](https://github.com/sehaj141/myrepository/tree/main/0791-custom-sort-string/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/sehaj141/myrepository/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0820-short-encoding-of-words](https://github.com/sehaj141/myrepository/tree/main/0820-short-encoding-of-words/) | Medium |
 | [0893-groups-of-special-equivalent-strings](https://github.com/sehaj141/myrepository/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0899-orderly-queue](https://github.com/sehaj141/myrepository/tree/main/0899-orderly-queue/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sehaj141/myrepository/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -3287,6 +3290,7 @@ Contribution: 2026-01-05 20:02
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0792-number-of-matching-subsequences](https://github.com/sehaj141/myrepository/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0820-short-encoding-of-words](https://github.com/sehaj141/myrepository/tree/main/0820-short-encoding-of-words/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
