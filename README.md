@@ -3148,6 +3148,7 @@ Contribution: 2026-01-05 20:02
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/sehaj141/myrepository/tree/main/0014-longest-common-prefix/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/sehaj141/myrepository/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/sehaj141/myrepository/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0553-optimal-division](https://github.com/sehaj141/myrepository/tree/main/0553-optimal-division/) | Medium |
@@ -3274,6 +3275,7 @@ Contribution: 2026-01-05 20:02
 | [0005-longest-palindromic-substring](https://github.com/sehaj141/myrepository/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/sehaj141/myrepository/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0013-roman-to-integer](https://github.com/sehaj141/myrepository/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/sehaj141/myrepository/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sehaj141/myrepository/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/sehaj141/myrepository/tree/main/0038-count-and-say/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/sehaj141/myrepository/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -3313,6 +3315,7 @@ Contribution: 2026-01-05 20:02
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/sehaj141/myrepository/tree/main/0014-longest-common-prefix/) | Easy |
 | [0792-number-of-matching-subsequences](https://github.com/sehaj141/myrepository/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0820-short-encoding-of-words](https://github.com/sehaj141/myrepository/tree/main/0820-short-encoding-of-words/) | Medium |
 ## Two Pointers
