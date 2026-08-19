@@ -3176,6 +3176,7 @@ Contribution: 2026-01-05 20:02
 | [1386-cinema-seat-allocation](https://github.com/sehaj141/myrepository/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1395-count-number-of-teams](https://github.com/sehaj141/myrepository/tree/main/1395-count-number-of-teams/) | Medium |
 | [1409-queries-on-a-permutation-with-key](https://github.com/sehaj141/myrepository/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
+| [1649-create-sorted-array-through-instructions](https://github.com/sehaj141/myrepository/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/sehaj141/myrepository/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/sehaj141/myrepository/tree/main/1744-can-you-eat-your-favorite-candy-on-your-favorite-day/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sehaj141/myrepository/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
@@ -3305,6 +3306,7 @@ Contribution: 2026-01-05 20:02
 | [0792-number-of-matching-subsequences](https://github.com/sehaj141/myrepository/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0825-friends-of-appropriate-ages](https://github.com/sehaj141/myrepository/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/sehaj141/myrepository/tree/main/0826-most-profit-assigning-work/) | Medium |
+| [1649-create-sorted-array-through-instructions](https://github.com/sehaj141/myrepository/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 | [1901-find-a-peak-element-ii](https://github.com/sehaj141/myrepository/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -3359,6 +3361,7 @@ Contribution: 2026-01-05 20:02
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/sehaj141/myrepository/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/sehaj141/myrepository/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1649-create-sorted-array-through-instructions](https://github.com/sehaj141/myrepository/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/sehaj141/myrepository/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -3484,10 +3487,12 @@ Contribution: 2026-01-05 20:02
 | ------- | ------- |
 | [1395-count-number-of-teams](https://github.com/sehaj141/myrepository/tree/main/1395-count-number-of-teams/) | Medium |
 | [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/sehaj141/myrepository/tree/main/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/) | Hard |
+| [1649-create-sorted-array-through-instructions](https://github.com/sehaj141/myrepository/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sehaj141/myrepository/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1649-create-sorted-array-through-instructions](https://github.com/sehaj141/myrepository/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sehaj141/myrepository/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
@@ -3503,6 +3508,7 @@ Contribution: 2026-01-05 20:02
 | [1395-count-number-of-teams](https://github.com/sehaj141/myrepository/tree/main/1395-count-number-of-teams/) | Medium |
 | [1409-queries-on-a-permutation-with-key](https://github.com/sehaj141/myrepository/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
 | [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/sehaj141/myrepository/tree/main/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/) | Hard |
+| [1649-create-sorted-array-through-instructions](https://github.com/sehaj141/myrepository/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -3511,4 +3517,8 @@ Contribution: 2026-01-05 20:02
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1409-queries-on-a-permutation-with-key](https://github.com/sehaj141/myrepository/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1649-create-sorted-array-through-instructions](https://github.com/sehaj141/myrepository/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 <!---LeetCode Topics End-->
