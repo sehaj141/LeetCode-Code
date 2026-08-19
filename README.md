@@ -3201,6 +3201,7 @@ Contribution: 2026-01-05 20:02
 | [0973-k-closest-points-to-origin](https://github.com/sehaj141/myrepository/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1037-valid-boomerang](https://github.com/sehaj141/myrepository/tree/main/1037-valid-boomerang/) | Easy |
 | [1140-stone-game-ii](https://github.com/sehaj141/myrepository/tree/main/1140-stone-game-ii/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/sehaj141/myrepository/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sehaj141/myrepository/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sehaj141/myrepository/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Dynamic Programming
@@ -3293,6 +3294,7 @@ Contribution: 2026-01-05 20:02
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/sehaj141/myrepository/tree/main/1737-change-minimum-characters-to-satisfy-one-of-three-conditions/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sehaj141/myrepository/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sehaj141/myrepository/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [1903-largest-odd-number-in-string](https://github.com/sehaj141/myrepository/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sehaj141/myrepository/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2484-count-palindromic-subsequences](https://github.com/sehaj141/myrepository/tree/main/2484-count-palindromic-subsequences/) | Hard |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sehaj141/myrepository/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -3335,6 +3337,7 @@ Contribution: 2026-01-05 20:02
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sehaj141/myrepository/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/sehaj141/myrepository/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/sehaj141/myrepository/tree/main/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/) | Hard |
+| [1903-largest-odd-number-in-string](https://github.com/sehaj141/myrepository/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sehaj141/myrepository/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
