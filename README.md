@@ -3173,6 +3173,7 @@ Contribution: 2026-01-05 20:02
 | [0963-minimum-area-rectangle-ii](https://github.com/sehaj141/myrepository/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/sehaj141/myrepository/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/sehaj141/myrepository/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/sehaj141/myrepository/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1029-two-city-scheduling](https://github.com/sehaj141/myrepository/tree/main/1029-two-city-scheduling/) | Medium |
 | [1037-valid-boomerang](https://github.com/sehaj141/myrepository/tree/main/1037-valid-boomerang/) | Easy |
 | [1140-stone-game-ii](https://github.com/sehaj141/myrepository/tree/main/1140-stone-game-ii/) | Medium |
@@ -3248,6 +3249,7 @@ Contribution: 2026-01-05 20:02
 | [0939-minimum-area-rectangle](https://github.com/sehaj141/myrepository/tree/main/0939-minimum-area-rectangle/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/sehaj141/myrepository/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/sehaj141/myrepository/tree/main/0976-largest-perimeter-triangle/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/sehaj141/myrepository/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1029-two-city-scheduling](https://github.com/sehaj141/myrepository/tree/main/1029-two-city-scheduling/) | Medium |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/sehaj141/myrepository/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [3731-find-missing-elements](https://github.com/sehaj141/myrepository/tree/main/3731-find-missing-elements/) | Easy |
@@ -3335,6 +3337,7 @@ Contribution: 2026-01-05 20:02
 | [0881-boats-to-save-people](https://github.com/sehaj141/myrepository/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/sehaj141/myrepository/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/sehaj141/myrepository/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/sehaj141/myrepository/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
