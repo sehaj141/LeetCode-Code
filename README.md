@@ -3202,6 +3202,7 @@ Contribution: 2026-01-05 20:02
 | [0891-sum-of-subsequence-widths](https://github.com/sehaj141/myrepository/tree/main/0891-sum-of-subsequence-widths/) | Hard |
 | [0899-orderly-queue](https://github.com/sehaj141/myrepository/tree/main/0899-orderly-queue/) | Hard |
 | [0910-smallest-range-ii](https://github.com/sehaj141/myrepository/tree/main/0910-smallest-range-ii/) | Medium |
+| [0920-number-of-music-playlists](https://github.com/sehaj141/myrepository/tree/main/0920-number-of-music-playlists/) | Hard |
 | [0939-minimum-area-rectangle](https://github.com/sehaj141/myrepository/tree/main/0939-minimum-area-rectangle/) | Medium |
 | [0963-minimum-area-rectangle-ii](https://github.com/sehaj141/myrepository/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/sehaj141/myrepository/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -3227,6 +3228,7 @@ Contribution: 2026-01-05 20:02
 | [0792-number-of-matching-subsequences](https://github.com/sehaj141/myrepository/tree/main/0792-number-of-matching-subsequences/) | Medium |
 | [0823-binary-trees-with-factors](https://github.com/sehaj141/myrepository/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/sehaj141/myrepository/tree/main/0828-count-unique-characters-of-all-substrings-of-a-given-string/) | Hard |
+| [0920-number-of-music-playlists](https://github.com/sehaj141/myrepository/tree/main/0920-number-of-music-playlists/) | Hard |
 | [1140-stone-game-ii](https://github.com/sehaj141/myrepository/tree/main/1140-stone-game-ii/) | Medium |
 | [1395-count-number-of-teams](https://github.com/sehaj141/myrepository/tree/main/1395-count-number-of-teams/) | Medium |
 | [2484-count-palindromic-subsequences](https://github.com/sehaj141/myrepository/tree/main/2484-count-palindromic-subsequences/) | Hard |
@@ -3579,4 +3581,8 @@ Contribution: 2026-01-05 20:02
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sehaj141/myrepository/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0920-number-of-music-playlists](https://github.com/sehaj141/myrepository/tree/main/0920-number-of-music-playlists/) | Hard |
 <!---LeetCode Topics End-->
