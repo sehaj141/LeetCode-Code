@@ -3172,6 +3172,7 @@ Contribution: 2026-01-05 20:02
 | [0927-three-equal-parts](https://github.com/sehaj141/myrepository/tree/main/0927-three-equal-parts/) | Hard |
 | [0932-beautiful-array](https://github.com/sehaj141/myrepository/tree/main/0932-beautiful-array/) | Medium |
 | [0939-minimum-area-rectangle](https://github.com/sehaj141/myrepository/tree/main/0939-minimum-area-rectangle/) | Medium |
+| [0952-largest-component-size-by-common-factor](https://github.com/sehaj141/myrepository/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [0963-minimum-area-rectangle-ii](https://github.com/sehaj141/myrepository/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/sehaj141/myrepository/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/sehaj141/myrepository/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -3208,6 +3209,7 @@ Contribution: 2026-01-05 20:02
 | [0927-three-equal-parts](https://github.com/sehaj141/myrepository/tree/main/0927-three-equal-parts/) | Hard |
 | [0932-beautiful-array](https://github.com/sehaj141/myrepository/tree/main/0932-beautiful-array/) | Medium |
 | [0939-minimum-area-rectangle](https://github.com/sehaj141/myrepository/tree/main/0939-minimum-area-rectangle/) | Medium |
+| [0952-largest-component-size-by-common-factor](https://github.com/sehaj141/myrepository/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [0963-minimum-area-rectangle-ii](https://github.com/sehaj141/myrepository/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/sehaj141/myrepository/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/sehaj141/myrepository/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -3278,6 +3280,7 @@ Contribution: 2026-01-05 20:02
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/sehaj141/myrepository/tree/main/0828-count-unique-characters-of-all-substrings-of-a-given-string/) | Hard |
 | [0893-groups-of-special-equivalent-strings](https://github.com/sehaj141/myrepository/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0939-minimum-area-rectangle](https://github.com/sehaj141/myrepository/tree/main/0939-minimum-area-rectangle/) | Medium |
+| [0952-largest-component-size-by-common-factor](https://github.com/sehaj141/myrepository/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [0963-minimum-area-rectangle-ii](https://github.com/sehaj141/myrepository/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sehaj141/myrepository/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1054-distant-barcodes](https://github.com/sehaj141/myrepository/tree/main/1054-distant-barcodes/) | Medium |
@@ -3446,6 +3449,7 @@ Contribution: 2026-01-05 20:02
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0952-largest-component-size-by-common-factor](https://github.com/sehaj141/myrepository/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sehaj141/myrepository/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Timsort
 | Problem Name | Difficulty |
@@ -3590,4 +3594,12 @@ Contribution: 2026-01-05 20:02
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0920-number-of-music-playlists](https://github.com/sehaj141/myrepository/tree/main/0920-number-of-music-playlists/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0952-largest-component-size-by-common-factor](https://github.com/sehaj141/myrepository/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0952-largest-component-size-by-common-factor](https://github.com/sehaj141/myrepository/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 <!---LeetCode Topics End-->
