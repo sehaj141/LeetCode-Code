@@ -3325,6 +3325,7 @@ Contribution: 2026-01-05 20:02
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sehaj141/myrepository/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sehaj141/myrepository/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sehaj141/myrepository/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sehaj141/myrepository/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -3355,6 +3356,7 @@ Contribution: 2026-01-05 20:02
 | [0905-sort-array-by-parity](https://github.com/sehaj141/myrepository/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/sehaj141/myrepository/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sehaj141/myrepository/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sehaj141/myrepository/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -3402,6 +3404,7 @@ Contribution: 2026-01-05 20:02
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sehaj141/myrepository/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sehaj141/myrepository/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
