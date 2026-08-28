@@ -3174,6 +3174,7 @@ Contribution: 2026-01-05 20:02
 | [0939-minimum-area-rectangle](https://github.com/sehaj141/myrepository/tree/main/0939-minimum-area-rectangle/) | Medium |
 | [0952-largest-component-size-by-common-factor](https://github.com/sehaj141/myrepository/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
 | [0963-minimum-area-rectangle-ii](https://github.com/sehaj141/myrepository/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
+| [0969-pancake-sorting](https://github.com/sehaj141/myrepository/tree/main/0969-pancake-sorting/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/sehaj141/myrepository/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/sehaj141/myrepository/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sehaj141/myrepository/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -3262,6 +3263,7 @@ Contribution: 2026-01-05 20:02
 | [0910-smallest-range-ii](https://github.com/sehaj141/myrepository/tree/main/0910-smallest-range-ii/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/sehaj141/myrepository/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0939-minimum-area-rectangle](https://github.com/sehaj141/myrepository/tree/main/0939-minimum-area-rectangle/) | Medium |
+| [0969-pancake-sorting](https://github.com/sehaj141/myrepository/tree/main/0969-pancake-sorting/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/sehaj141/myrepository/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/sehaj141/myrepository/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sehaj141/myrepository/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -3362,6 +3364,7 @@ Contribution: 2026-01-05 20:02
 | [0881-boats-to-save-people](https://github.com/sehaj141/myrepository/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/sehaj141/myrepository/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/sehaj141/myrepository/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0969-pancake-sorting](https://github.com/sehaj141/myrepository/tree/main/0969-pancake-sorting/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sehaj141/myrepository/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sehaj141/myrepository/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Greedy
@@ -3372,6 +3375,7 @@ Contribution: 2026-01-05 20:02
 | [0881-boats-to-save-people](https://github.com/sehaj141/myrepository/tree/main/0881-boats-to-save-people/) | Medium |
 | [0910-smallest-range-ii](https://github.com/sehaj141/myrepository/tree/main/0910-smallest-range-ii/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sehaj141/myrepository/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [0969-pancake-sorting](https://github.com/sehaj141/myrepository/tree/main/0969-pancake-sorting/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/sehaj141/myrepository/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1029-two-city-scheduling](https://github.com/sehaj141/myrepository/tree/main/1029-two-city-scheduling/) | Medium |
 | [1054-distant-barcodes](https://github.com/sehaj141/myrepository/tree/main/1054-distant-barcodes/) | Medium |
