@@ -3220,6 +3220,7 @@ Contribution: 2026-01-05 20:02
 | [1903-largest-odd-number-in-string](https://github.com/sehaj141/myrepository/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/sehaj141/myrepository/tree/main/2249-count-lattice-points-inside-a-circle/) | Medium |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sehaj141/myrepository/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/sehaj141/myrepository/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sehaj141/myrepository/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sehaj141/myrepository/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Dynamic Programming
@@ -3496,6 +3497,7 @@ Contribution: 2026-01-05 20:02
 | [1037-valid-boomerang](https://github.com/sehaj141/myrepository/tree/main/1037-valid-boomerang/) | Easy |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/sehaj141/myrepository/tree/main/2249-count-lattice-points-inside-a-circle/) | Medium |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sehaj141/myrepository/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/sehaj141/myrepository/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
