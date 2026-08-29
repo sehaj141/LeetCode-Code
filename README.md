@@ -3623,4 +3623,8 @@ Contribution: 2026-01-05 20:02
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/sehaj141/myrepository/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/sehaj141/myrepository/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
