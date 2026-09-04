@@ -3319,6 +3319,7 @@ Contribution: 2026-01-05 20:02
 | [0730-count-different-palindromic-subsequences](https://github.com/sehaj141/myrepository/tree/main/0730-count-different-palindromic-subsequences/) | Hard |
 | [0791-custom-sort-string](https://github.com/sehaj141/myrepository/tree/main/0791-custom-sort-string/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/sehaj141/myrepository/tree/main/0792-number-of-matching-subsequences/) | Medium |
+| [0796-rotate-string](https://github.com/sehaj141/myrepository/tree/main/0796-rotate-string/) | Easy |
 | [0820-short-encoding-of-words](https://github.com/sehaj141/myrepository/tree/main/0820-short-encoding-of-words/) | Medium |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/sehaj141/myrepository/tree/main/0828-count-unique-characters-of-all-substrings-of-a-given-string/) | Hard |
 | [0893-groups-of-special-equivalent-strings](https://github.com/sehaj141/myrepository/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
@@ -3434,6 +3435,7 @@ Contribution: 2026-01-05 20:02
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sehaj141/myrepository/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0686-repeated-string-match](https://github.com/sehaj141/myrepository/tree/main/0686-repeated-string-match/) | Medium |
+| [0796-rotate-string](https://github.com/sehaj141/myrepository/tree/main/0796-rotate-string/) | Easy |
 | [1392-longest-happy-prefix](https://github.com/sehaj141/myrepository/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Z Algorithm
 | Problem Name | Difficulty |
