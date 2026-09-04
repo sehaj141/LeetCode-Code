@@ -3328,6 +3328,7 @@ Contribution: 2026-01-05 20:02
 | [0893-groups-of-special-equivalent-strings](https://github.com/sehaj141/myrepository/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0899-orderly-queue](https://github.com/sehaj141/myrepository/tree/main/0899-orderly-queue/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sehaj141/myrepository/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/sehaj141/myrepository/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1392-longest-happy-prefix](https://github.com/sehaj141/myrepository/tree/main/1392-longest-happy-prefix/) | Hard |
 | [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/sehaj141/myrepository/tree/main/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sehaj141/myrepository/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -3427,11 +3428,13 @@ Contribution: 2026-01-05 20:02
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sehaj141/myrepository/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/sehaj141/myrepository/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sehaj141/myrepository/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sehaj141/myrepository/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/sehaj141/myrepository/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sehaj141/myrepository/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
