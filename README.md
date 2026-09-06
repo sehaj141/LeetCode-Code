@@ -3185,6 +3185,7 @@ Contribution: 2026-01-05 20:02
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sehaj141/myrepository/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1363-largest-multiple-of-three](https://github.com/sehaj141/myrepository/tree/main/1363-largest-multiple-of-three/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sehaj141/myrepository/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1366-rank-teams-by-votes](https://github.com/sehaj141/myrepository/tree/main/1366-rank-teams-by-votes/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/sehaj141/myrepository/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1395-count-number-of-teams](https://github.com/sehaj141/myrepository/tree/main/1395-count-number-of-teams/) | Medium |
 | [1409-queries-on-a-permutation-with-key](https://github.com/sehaj141/myrepository/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
@@ -3280,6 +3281,7 @@ Contribution: 2026-01-05 20:02
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sehaj141/myrepository/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1363-largest-multiple-of-three](https://github.com/sehaj141/myrepository/tree/main/1363-largest-multiple-of-three/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sehaj141/myrepository/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1366-rank-teams-by-votes](https://github.com/sehaj141/myrepository/tree/main/1366-rank-teams-by-votes/) | Medium |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/sehaj141/myrepository/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sehaj141/myrepository/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
 | [3731-find-missing-elements](https://github.com/sehaj141/myrepository/tree/main/3731-find-missing-elements/) | Easy |
@@ -3305,6 +3307,7 @@ Contribution: 2026-01-05 20:02
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sehaj141/myrepository/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1054-distant-barcodes](https://github.com/sehaj141/myrepository/tree/main/1054-distant-barcodes/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sehaj141/myrepository/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1366-rank-teams-by-votes](https://github.com/sehaj141/myrepository/tree/main/1366-rank-teams-by-votes/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/sehaj141/myrepository/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/sehaj141/myrepository/tree/main/1737-change-minimum-characters-to-satisfy-one-of-three-conditions/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sehaj141/myrepository/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
@@ -3340,6 +3343,7 @@ Contribution: 2026-01-05 20:02
 | [0899-orderly-queue](https://github.com/sehaj141/myrepository/tree/main/0899-orderly-queue/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sehaj141/myrepository/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/sehaj141/myrepository/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1366-rank-teams-by-votes](https://github.com/sehaj141/myrepository/tree/main/1366-rank-teams-by-votes/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/sehaj141/myrepository/tree/main/1392-longest-happy-prefix/) | Hard |
 | [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/sehaj141/myrepository/tree/main/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sehaj141/myrepository/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -3553,6 +3557,7 @@ Contribution: 2026-01-05 20:02
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/sehaj141/myrepository/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1054-distant-barcodes](https://github.com/sehaj141/myrepository/tree/main/1054-distant-barcodes/) | Medium |
+| [1366-rank-teams-by-votes](https://github.com/sehaj141/myrepository/tree/main/1366-rank-teams-by-votes/) | Medium |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/sehaj141/myrepository/tree/main/1737-change-minimum-characters-to-satisfy-one-of-three-conditions/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sehaj141/myrepository/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 ## Bit Manipulation
