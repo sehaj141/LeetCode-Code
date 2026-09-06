@@ -3151,6 +3151,7 @@ Contribution: 2026-01-05 20:02
 | [0014-longest-common-prefix](https://github.com/sehaj141/myrepository/tree/main/0014-longest-common-prefix/) | Easy |
 | [0045-jump-game-ii](https://github.com/sehaj141/myrepository/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/sehaj141/myrepository/tree/main/0055-jump-game/) | Medium |
+| [0056-merge-intervals](https://github.com/sehaj141/myrepository/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/sehaj141/myrepository/tree/main/0057-insert-interval/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/sehaj141/myrepository/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0135-candy](https://github.com/sehaj141/myrepository/tree/main/0135-candy/) | Hard |
@@ -3263,6 +3264,7 @@ Contribution: 2026-01-05 20:02
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/sehaj141/myrepository/tree/main/0056-merge-intervals/) | Medium |
 | [0242-valid-anagram](https://github.com/sehaj141/myrepository/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/sehaj141/myrepository/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0455-assign-cookies](https://github.com/sehaj141/myrepository/tree/main/0455-assign-cookies/) | Easy |
@@ -3639,6 +3641,7 @@ Contribution: 2026-01-05 20:02
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/sehaj141/myrepository/tree/main/0056-merge-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/sehaj141/myrepository/tree/main/0455-assign-cookies/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/sehaj141/myrepository/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Polygons
