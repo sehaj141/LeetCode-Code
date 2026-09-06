@@ -3184,6 +3184,7 @@ Contribution: 2026-01-05 20:02
 | [1140-stone-game-ii](https://github.com/sehaj141/myrepository/tree/main/1140-stone-game-ii/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sehaj141/myrepository/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1363-largest-multiple-of-three](https://github.com/sehaj141/myrepository/tree/main/1363-largest-multiple-of-three/) | Hard |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sehaj141/myrepository/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/sehaj141/myrepository/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1395-count-number-of-teams](https://github.com/sehaj141/myrepository/tree/main/1395-count-number-of-teams/) | Medium |
 | [1409-queries-on-a-permutation-with-key](https://github.com/sehaj141/myrepository/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
@@ -3278,6 +3279,7 @@ Contribution: 2026-01-05 20:02
 | [1054-distant-barcodes](https://github.com/sehaj141/myrepository/tree/main/1054-distant-barcodes/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sehaj141/myrepository/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
 | [1363-largest-multiple-of-three](https://github.com/sehaj141/myrepository/tree/main/1363-largest-multiple-of-three/) | Hard |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sehaj141/myrepository/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/sehaj141/myrepository/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sehaj141/myrepository/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
 | [3731-find-missing-elements](https://github.com/sehaj141/myrepository/tree/main/3731-find-missing-elements/) | Easy |
@@ -3302,6 +3304,7 @@ Contribution: 2026-01-05 20:02
 | [0963-minimum-area-rectangle-ii](https://github.com/sehaj141/myrepository/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sehaj141/myrepository/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1054-distant-barcodes](https://github.com/sehaj141/myrepository/tree/main/1054-distant-barcodes/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sehaj141/myrepository/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/sehaj141/myrepository/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/sehaj141/myrepository/tree/main/1737-change-minimum-characters-to-satisfy-one-of-three-conditions/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sehaj141/myrepository/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
@@ -3650,4 +3653,8 @@ Contribution: 2026-01-05 20:02
 | [0175-combine-two-tables](https://github.com/sehaj141/myrepository/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/sehaj141/myrepository/tree/main/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/sehaj141/myrepository/tree/main/0177-nth-highest-salary/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sehaj141/myrepository/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
