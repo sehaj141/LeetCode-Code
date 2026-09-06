@@ -3163,6 +3163,7 @@ Contribution: 2026-01-05 20:02
 | [0823-binary-trees-with-factors](https://github.com/sehaj141/myrepository/tree/main/0823-binary-trees-with-factors/) | Medium |
 | [0825-friends-of-appropriate-ages](https://github.com/sehaj141/myrepository/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/sehaj141/myrepository/tree/main/0826-most-profit-assigning-work/) | Medium |
+| [0860-lemonade-change](https://github.com/sehaj141/myrepository/tree/main/0860-lemonade-change/) | Easy |
 | [0870-advantage-shuffle](https://github.com/sehaj141/myrepository/tree/main/0870-advantage-shuffle/) | Medium |
 | [0881-boats-to-save-people](https://github.com/sehaj141/myrepository/tree/main/0881-boats-to-save-people/) | Medium |
 | [0891-sum-of-subsequence-widths](https://github.com/sehaj141/myrepository/tree/main/0891-sum-of-subsequence-widths/) | Hard |
@@ -3397,6 +3398,7 @@ Contribution: 2026-01-05 20:02
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/sehaj141/myrepository/tree/main/0455-assign-cookies/) | Easy |
 | [0826-most-profit-assigning-work](https://github.com/sehaj141/myrepository/tree/main/0826-most-profit-assigning-work/) | Medium |
+| [0860-lemonade-change](https://github.com/sehaj141/myrepository/tree/main/0860-lemonade-change/) | Easy |
 | [0870-advantage-shuffle](https://github.com/sehaj141/myrepository/tree/main/0870-advantage-shuffle/) | Medium |
 | [0881-boats-to-save-people](https://github.com/sehaj141/myrepository/tree/main/0881-boats-to-save-people/) | Medium |
 | [0910-smallest-range-ii](https://github.com/sehaj141/myrepository/tree/main/0910-smallest-range-ii/) | Medium |
