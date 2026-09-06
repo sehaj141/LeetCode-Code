@@ -3151,6 +3151,7 @@ Contribution: 2026-01-05 20:02
 | [0014-longest-common-prefix](https://github.com/sehaj141/myrepository/tree/main/0014-longest-common-prefix/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/sehaj141/myrepository/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/sehaj141/myrepository/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0455-assign-cookies](https://github.com/sehaj141/myrepository/tree/main/0455-assign-cookies/) | Easy |
 | [0553-optimal-division](https://github.com/sehaj141/myrepository/tree/main/0553-optimal-division/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/sehaj141/myrepository/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0740-delete-and-earn](https://github.com/sehaj141/myrepository/tree/main/0740-delete-and-earn/) | Medium |
@@ -3256,6 +3257,7 @@ Contribution: 2026-01-05 20:02
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/sehaj141/myrepository/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/sehaj141/myrepository/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0455-assign-cookies](https://github.com/sehaj141/myrepository/tree/main/0455-assign-cookies/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/sehaj141/myrepository/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0791-custom-sort-string](https://github.com/sehaj141/myrepository/tree/main/0791-custom-sort-string/) | Medium |
 | [0792-number-of-matching-subsequences](https://github.com/sehaj141/myrepository/tree/main/0792-number-of-matching-subsequences/) | Medium |
@@ -3380,6 +3382,7 @@ Contribution: 2026-01-05 20:02
 | [0005-longest-palindromic-substring](https://github.com/sehaj141/myrepository/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sehaj141/myrepository/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/sehaj141/myrepository/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0455-assign-cookies](https://github.com/sehaj141/myrepository/tree/main/0455-assign-cookies/) | Easy |
 | [0825-friends-of-appropriate-ages](https://github.com/sehaj141/myrepository/tree/main/0825-friends-of-appropriate-ages/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/sehaj141/myrepository/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0870-advantage-shuffle](https://github.com/sehaj141/myrepository/tree/main/0870-advantage-shuffle/) | Medium |
@@ -3392,6 +3395,7 @@ Contribution: 2026-01-05 20:02
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0455-assign-cookies](https://github.com/sehaj141/myrepository/tree/main/0455-assign-cookies/) | Easy |
 | [0826-most-profit-assigning-work](https://github.com/sehaj141/myrepository/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0870-advantage-shuffle](https://github.com/sehaj141/myrepository/tree/main/0870-advantage-shuffle/) | Medium |
 | [0881-boats-to-save-people](https://github.com/sehaj141/myrepository/tree/main/0881-boats-to-save-people/) | Medium |
@@ -3619,6 +3623,7 @@ Contribution: 2026-01-05 20:02
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0455-assign-cookies](https://github.com/sehaj141/myrepository/tree/main/0455-assign-cookies/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/sehaj141/myrepository/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Polygons
 | Problem Name | Difficulty |
