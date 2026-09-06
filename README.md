@@ -3183,6 +3183,7 @@ Contribution: 2026-01-05 20:02
 | [1054-distant-barcodes](https://github.com/sehaj141/myrepository/tree/main/1054-distant-barcodes/) | Medium |
 | [1140-stone-game-ii](https://github.com/sehaj141/myrepository/tree/main/1140-stone-game-ii/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sehaj141/myrepository/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
+| [1363-largest-multiple-of-three](https://github.com/sehaj141/myrepository/tree/main/1363-largest-multiple-of-three/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/sehaj141/myrepository/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1395-count-number-of-teams](https://github.com/sehaj141/myrepository/tree/main/1395-count-number-of-teams/) | Medium |
 | [1409-queries-on-a-permutation-with-key](https://github.com/sehaj141/myrepository/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
@@ -3219,6 +3220,7 @@ Contribution: 2026-01-05 20:02
 | [0976-largest-perimeter-triangle](https://github.com/sehaj141/myrepository/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1037-valid-boomerang](https://github.com/sehaj141/myrepository/tree/main/1037-valid-boomerang/) | Easy |
 | [1140-stone-game-ii](https://github.com/sehaj141/myrepository/tree/main/1140-stone-game-ii/) | Medium |
+| [1363-largest-multiple-of-three](https://github.com/sehaj141/myrepository/tree/main/1363-largest-multiple-of-three/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/sehaj141/myrepository/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/sehaj141/myrepository/tree/main/2249-count-lattice-points-inside-a-circle/) | Medium |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sehaj141/myrepository/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
@@ -3244,6 +3246,7 @@ Contribution: 2026-01-05 20:02
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/sehaj141/myrepository/tree/main/0828-count-unique-characters-of-all-substrings-of-a-given-string/) | Hard |
 | [0920-number-of-music-playlists](https://github.com/sehaj141/myrepository/tree/main/0920-number-of-music-playlists/) | Hard |
 | [1140-stone-game-ii](https://github.com/sehaj141/myrepository/tree/main/1140-stone-game-ii/) | Medium |
+| [1363-largest-multiple-of-three](https://github.com/sehaj141/myrepository/tree/main/1363-largest-multiple-of-three/) | Hard |
 | [1395-count-number-of-teams](https://github.com/sehaj141/myrepository/tree/main/1395-count-number-of-teams/) | Medium |
 | [2484-count-palindromic-subsequences](https://github.com/sehaj141/myrepository/tree/main/2484-count-palindromic-subsequences/) | Hard |
 ## Sorting
@@ -3274,6 +3277,7 @@ Contribution: 2026-01-05 20:02
 | [1029-two-city-scheduling](https://github.com/sehaj141/myrepository/tree/main/1029-two-city-scheduling/) | Medium |
 | [1054-distant-barcodes](https://github.com/sehaj141/myrepository/tree/main/1054-distant-barcodes/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sehaj141/myrepository/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
+| [1363-largest-multiple-of-three](https://github.com/sehaj141/myrepository/tree/main/1363-largest-multiple-of-three/) | Hard |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/sehaj141/myrepository/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sehaj141/myrepository/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
 | [3731-find-missing-elements](https://github.com/sehaj141/myrepository/tree/main/3731-find-missing-elements/) | Easy |
@@ -3391,6 +3395,7 @@ Contribution: 2026-01-05 20:02
 | [1029-two-city-scheduling](https://github.com/sehaj141/myrepository/tree/main/1029-two-city-scheduling/) | Medium |
 | [1054-distant-barcodes](https://github.com/sehaj141/myrepository/tree/main/1054-distant-barcodes/) | Medium |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/sehaj141/myrepository/tree/main/1353-maximum-number-of-events-that-can-be-attended/) | Medium |
+| [1363-largest-multiple-of-three](https://github.com/sehaj141/myrepository/tree/main/1363-largest-multiple-of-three/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/sehaj141/myrepository/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/sehaj141/myrepository/tree/main/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/sehaj141/myrepository/tree/main/1903-largest-odd-number-in-string/) | Easy |
