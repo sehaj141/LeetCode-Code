@@ -3228,6 +3228,7 @@ Contribution: 2026-01-05 20:02
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sehaj141/myrepository/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0115-distinct-subsequences](https://github.com/sehaj141/myrepository/tree/main/0115-distinct-subsequences/) | Hard |
 | [0553-optimal-division](https://github.com/sehaj141/myrepository/tree/main/0553-optimal-division/) | Medium |
 | [0576-out-of-boundary-paths](https://github.com/sehaj141/myrepository/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/sehaj141/myrepository/tree/main/0583-delete-operation-for-two-strings/) | Medium |
@@ -3313,6 +3314,7 @@ Contribution: 2026-01-05 20:02
 | [0014-longest-common-prefix](https://github.com/sehaj141/myrepository/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sehaj141/myrepository/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/sehaj141/myrepository/tree/main/0038-count-and-say/) | Medium |
+| [0115-distinct-subsequences](https://github.com/sehaj141/myrepository/tree/main/0115-distinct-subsequences/) | Hard |
 | [0151-reverse-words-in-a-string](https://github.com/sehaj141/myrepository/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/sehaj141/myrepository/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/sehaj141/myrepository/tree/main/0242-valid-anagram/) | Easy |
