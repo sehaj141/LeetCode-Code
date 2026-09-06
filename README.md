@@ -3152,6 +3152,7 @@ Contribution: 2026-01-05 20:02
 | [0045-jump-game-ii](https://github.com/sehaj141/myrepository/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/sehaj141/myrepository/tree/main/0055-jump-game/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/sehaj141/myrepository/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0135-candy](https://github.com/sehaj141/myrepository/tree/main/0135-candy/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/sehaj141/myrepository/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0455-assign-cookies](https://github.com/sehaj141/myrepository/tree/main/0455-assign-cookies/) | Easy |
 | [0553-optimal-division](https://github.com/sehaj141/myrepository/tree/main/0553-optimal-division/) | Medium |
@@ -3404,6 +3405,7 @@ Contribution: 2026-01-05 20:02
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/sehaj141/myrepository/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/sehaj141/myrepository/tree/main/0055-jump-game/) | Medium |
+| [0135-candy](https://github.com/sehaj141/myrepository/tree/main/0135-candy/) | Hard |
 | [0455-assign-cookies](https://github.com/sehaj141/myrepository/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/sehaj141/myrepository/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/sehaj141/myrepository/tree/main/0826-most-profit-assigning-work/) | Medium |
