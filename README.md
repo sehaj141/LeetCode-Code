@@ -3241,6 +3241,7 @@ Contribution: 2026-01-05 20:02
 | [0583-delete-operation-for-two-strings](https://github.com/sehaj141/myrepository/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/sehaj141/myrepository/tree/main/0600-non-negative-integers-without-consecutive-ones/) | Hard |
 | [0629-k-inverse-pairs-array](https://github.com/sehaj141/myrepository/tree/main/0629-k-inverse-pairs-array/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/sehaj141/myrepository/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0730-count-different-palindromic-subsequences](https://github.com/sehaj141/myrepository/tree/main/0730-count-different-palindromic-subsequences/) | Hard |
 | [0740-delete-and-earn](https://github.com/sehaj141/myrepository/tree/main/0740-delete-and-earn/) | Medium |
 | [0741-cherry-pickup](https://github.com/sehaj141/myrepository/tree/main/0741-cherry-pickup/) | Hard |
@@ -3335,6 +3336,7 @@ Contribution: 2026-01-05 20:02
 | [0242-valid-anagram](https://github.com/sehaj141/myrepository/tree/main/0242-valid-anagram/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/sehaj141/myrepository/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/sehaj141/myrepository/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/sehaj141/myrepository/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0686-repeated-string-match](https://github.com/sehaj141/myrepository/tree/main/0686-repeated-string-match/) | Medium |
 | [0730-count-different-palindromic-subsequences](https://github.com/sehaj141/myrepository/tree/main/0730-count-different-palindromic-subsequences/) | Hard |
 | [0791-custom-sort-string](https://github.com/sehaj141/myrepository/tree/main/0791-custom-sort-string/) | Medium |
@@ -3397,6 +3399,7 @@ Contribution: 2026-01-05 20:02
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/sehaj141/myrepository/tree/main/0455-assign-cookies/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/sehaj141/myrepository/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/sehaj141/myrepository/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0860-lemonade-change](https://github.com/sehaj141/myrepository/tree/main/0860-lemonade-change/) | Easy |
 | [0870-advantage-shuffle](https://github.com/sehaj141/myrepository/tree/main/0870-advantage-shuffle/) | Medium |
@@ -3450,12 +3453,14 @@ Contribution: 2026-01-05 20:02
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/sehaj141/myrepository/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sehaj141/myrepository/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/sehaj141/myrepository/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sehaj141/myrepository/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/sehaj141/myrepository/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sehaj141/myrepository/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/sehaj141/myrepository/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sehaj141/myrepository/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
