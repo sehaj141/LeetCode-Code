@@ -3200,6 +3200,7 @@ Contribution: 2026-01-05 20:02
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/sehaj141/myrepository/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [1744-can-you-eat-your-favorite-candy-on-your-favorite-day](https://github.com/sehaj141/myrepository/tree/main/1744-can-you-eat-your-favorite-candy-on-your-favorite-day/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sehaj141/myrepository/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/sehaj141/myrepository/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/sehaj141/myrepository/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sehaj141/myrepository/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/sehaj141/myrepository/tree/main/2249-count-lattice-points-inside-a-circle/) | Medium |
@@ -3231,6 +3232,7 @@ Contribution: 2026-01-05 20:02
 | [1037-valid-boomerang](https://github.com/sehaj141/myrepository/tree/main/1037-valid-boomerang/) | Easy |
 | [1140-stone-game-ii](https://github.com/sehaj141/myrepository/tree/main/1140-stone-game-ii/) | Medium |
 | [1363-largest-multiple-of-three](https://github.com/sehaj141/myrepository/tree/main/1363-largest-multiple-of-three/) | Hard |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/sehaj141/myrepository/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/sehaj141/myrepository/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/sehaj141/myrepository/tree/main/2249-count-lattice-points-inside-a-circle/) | Medium |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sehaj141/myrepository/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
@@ -3626,6 +3628,7 @@ Contribution: 2026-01-05 20:02
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1409-queries-on-a-permutation-with-key](https://github.com/sehaj141/myrepository/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/sehaj141/myrepository/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Sqrt Decomposition
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -3690,4 +3693,12 @@ Contribution: 2026-01-05 20:02
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sehaj141/myrepository/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/sehaj141/myrepository/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/sehaj141/myrepository/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 <!---LeetCode Topics End-->
