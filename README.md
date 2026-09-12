@@ -3234,6 +3234,7 @@ Contribution: 2026-01-05 20:02
 | [1363-largest-multiple-of-three](https://github.com/sehaj141/myrepository/tree/main/1363-largest-multiple-of-three/) | Hard |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sehaj141/myrepository/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/sehaj141/myrepository/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1922-count-good-numbers](https://github.com/sehaj141/myrepository/tree/main/1922-count-good-numbers/) | Medium |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/sehaj141/myrepository/tree/main/2249-count-lattice-points-inside-a-circle/) | Medium |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sehaj141/myrepository/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/sehaj141/myrepository/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
@@ -3697,6 +3698,7 @@ Contribution: 2026-01-05 20:02
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sehaj141/myrepository/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [1922-count-good-numbers](https://github.com/sehaj141/myrepository/tree/main/1922-count-good-numbers/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
