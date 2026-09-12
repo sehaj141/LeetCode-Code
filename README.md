@@ -3235,6 +3235,7 @@ Contribution: 2026-01-05 20:02
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sehaj141/myrepository/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/sehaj141/myrepository/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1922-count-good-numbers](https://github.com/sehaj141/myrepository/tree/main/1922-count-good-numbers/) | Medium |
+| [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/sehaj141/myrepository/tree/main/1969-minimum-non-zero-product-of-the-array-elements/) | Medium |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/sehaj141/myrepository/tree/main/2249-count-lattice-points-inside-a-circle/) | Medium |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sehaj141/myrepository/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/sehaj141/myrepository/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
@@ -3433,6 +3434,7 @@ Contribution: 2026-01-05 20:02
 | [1386-cinema-seat-allocation](https://github.com/sehaj141/myrepository/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/sehaj141/myrepository/tree/main/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/sehaj141/myrepository/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/sehaj141/myrepository/tree/main/1969-minimum-non-zero-product-of-the-array-elements/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sehaj141/myrepository/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -3699,6 +3701,7 @@ Contribution: 2026-01-05 20:02
 | ------- | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sehaj141/myrepository/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1922-count-good-numbers](https://github.com/sehaj141/myrepository/tree/main/1922-count-good-numbers/) | Medium |
+| [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/sehaj141/myrepository/tree/main/1969-minimum-non-zero-product-of-the-array-elements/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
