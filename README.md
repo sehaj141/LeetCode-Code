@@ -3202,6 +3202,7 @@ Contribution: 2026-01-05 20:02
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sehaj141/myrepository/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sehaj141/myrepository/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/sehaj141/myrepository/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/sehaj141/myrepository/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sehaj141/myrepository/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/sehaj141/myrepository/tree/main/2249-count-lattice-points-inside-a-circle/) | Medium |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sehaj141/myrepository/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
@@ -3301,6 +3302,7 @@ Contribution: 2026-01-05 20:02
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sehaj141/myrepository/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1366-rank-teams-by-votes](https://github.com/sehaj141/myrepository/tree/main/1366-rank-teams-by-votes/) | Medium |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/sehaj141/myrepository/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/sehaj141/myrepository/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sehaj141/myrepository/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sehaj141/myrepository/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3731-find-missing-elements](https://github.com/sehaj141/myrepository/tree/main/3731-find-missing-elements/) | Easy |
@@ -3330,6 +3332,7 @@ Contribution: 2026-01-05 20:02
 | [1386-cinema-seat-allocation](https://github.com/sehaj141/myrepository/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/sehaj141/myrepository/tree/main/1737-change-minimum-characters-to-satisfy-one-of-three-conditions/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sehaj141/myrepository/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/sehaj141/myrepository/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/sehaj141/myrepository/tree/main/2249-count-lattice-points-inside-a-circle/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sehaj141/myrepository/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sehaj141/myrepository/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -3467,6 +3470,7 @@ Contribution: 2026-01-05 20:02
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/sehaj141/myrepository/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/sehaj141/myrepository/tree/main/2249-count-lattice-points-inside-a-circle/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sehaj141/myrepository/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sehaj141/myrepository/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
@@ -3702,6 +3706,7 @@ Contribution: 2026-01-05 20:02
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sehaj141/myrepository/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1922-count-good-numbers](https://github.com/sehaj141/myrepository/tree/main/1922-count-good-numbers/) | Medium |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/sehaj141/myrepository/tree/main/1969-minimum-non-zero-product-of-the-array-elements/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/sehaj141/myrepository/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
