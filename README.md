@@ -3223,6 +3223,7 @@ Contribution: 2026-01-05 20:02
 | [0628-maximum-product-of-three-numbers](https://github.com/sehaj141/myrepository/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0670-maximum-swap](https://github.com/sehaj141/myrepository/tree/main/0670-maximum-swap/) | Medium |
 | [0710-random-pick-with-blacklist](https://github.com/sehaj141/myrepository/tree/main/0710-random-pick-with-blacklist/) | Hard |
+| [0728-self-dividing-numbers](https://github.com/sehaj141/myrepository/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0891-sum-of-subsequence-widths](https://github.com/sehaj141/myrepository/tree/main/0891-sum-of-subsequence-widths/) | Hard |
 | [0899-orderly-queue](https://github.com/sehaj141/myrepository/tree/main/0899-orderly-queue/) | Hard |
 | [0910-smallest-range-ii](https://github.com/sehaj141/myrepository/tree/main/0910-smallest-range-ii/) | Medium |
