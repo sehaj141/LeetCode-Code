@@ -3224,6 +3224,7 @@ Contribution: 2026-01-05 20:02
 | [0670-maximum-swap](https://github.com/sehaj141/myrepository/tree/main/0670-maximum-swap/) | Medium |
 | [0710-random-pick-with-blacklist](https://github.com/sehaj141/myrepository/tree/main/0710-random-pick-with-blacklist/) | Hard |
 | [0728-self-dividing-numbers](https://github.com/sehaj141/myrepository/tree/main/0728-self-dividing-numbers/) | Easy |
+| [0738-monotone-increasing-digits](https://github.com/sehaj141/myrepository/tree/main/0738-monotone-increasing-digits/) | Medium |
 | [0891-sum-of-subsequence-widths](https://github.com/sehaj141/myrepository/tree/main/0891-sum-of-subsequence-widths/) | Hard |
 | [0899-orderly-queue](https://github.com/sehaj141/myrepository/tree/main/0899-orderly-queue/) | Hard |
 | [0910-smallest-range-ii](https://github.com/sehaj141/myrepository/tree/main/0910-smallest-range-ii/) | Medium |
@@ -3431,6 +3432,7 @@ Contribution: 2026-01-05 20:02
 | [0455-assign-cookies](https://github.com/sehaj141/myrepository/tree/main/0455-assign-cookies/) | Easy |
 | [0670-maximum-swap](https://github.com/sehaj141/myrepository/tree/main/0670-maximum-swap/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/sehaj141/myrepository/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0738-monotone-increasing-digits](https://github.com/sehaj141/myrepository/tree/main/0738-monotone-increasing-digits/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/sehaj141/myrepository/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0860-lemonade-change](https://github.com/sehaj141/myrepository/tree/main/0860-lemonade-change/) | Easy |
 | [0870-advantage-shuffle](https://github.com/sehaj141/myrepository/tree/main/0870-advantage-shuffle/) | Medium |
