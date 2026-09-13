@@ -3221,6 +3221,7 @@ Contribution: 2026-01-05 20:02
 | [0400-nth-digit](https://github.com/sehaj141/myrepository/tree/main/0400-nth-digit/) | Medium |
 | [0553-optimal-division](https://github.com/sehaj141/myrepository/tree/main/0553-optimal-division/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/sehaj141/myrepository/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0670-maximum-swap](https://github.com/sehaj141/myrepository/tree/main/0670-maximum-swap/) | Medium |
 | [0710-random-pick-with-blacklist](https://github.com/sehaj141/myrepository/tree/main/0710-random-pick-with-blacklist/) | Hard |
 | [0891-sum-of-subsequence-widths](https://github.com/sehaj141/myrepository/tree/main/0891-sum-of-subsequence-widths/) | Hard |
 | [0899-orderly-queue](https://github.com/sehaj141/myrepository/tree/main/0899-orderly-queue/) | Hard |
@@ -3427,6 +3428,7 @@ Contribution: 2026-01-05 20:02
 | [0055-jump-game](https://github.com/sehaj141/myrepository/tree/main/0055-jump-game/) | Medium |
 | [0135-candy](https://github.com/sehaj141/myrepository/tree/main/0135-candy/) | Hard |
 | [0455-assign-cookies](https://github.com/sehaj141/myrepository/tree/main/0455-assign-cookies/) | Easy |
+| [0670-maximum-swap](https://github.com/sehaj141/myrepository/tree/main/0670-maximum-swap/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/sehaj141/myrepository/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0826-most-profit-assigning-work](https://github.com/sehaj141/myrepository/tree/main/0826-most-profit-assigning-work/) | Medium |
 | [0860-lemonade-change](https://github.com/sehaj141/myrepository/tree/main/0860-lemonade-change/) | Easy |
