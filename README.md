@@ -3225,6 +3225,7 @@ Contribution: 2026-01-05 20:02
 | [0710-random-pick-with-blacklist](https://github.com/sehaj141/myrepository/tree/main/0710-random-pick-with-blacklist/) | Hard |
 | [0728-self-dividing-numbers](https://github.com/sehaj141/myrepository/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0738-monotone-increasing-digits](https://github.com/sehaj141/myrepository/tree/main/0738-monotone-increasing-digits/) | Medium |
+| [0836-rectangle-overlap](https://github.com/sehaj141/myrepository/tree/main/0836-rectangle-overlap/) | Easy |
 | [0891-sum-of-subsequence-widths](https://github.com/sehaj141/myrepository/tree/main/0891-sum-of-subsequence-widths/) | Hard |
 | [0899-orderly-queue](https://github.com/sehaj141/myrepository/tree/main/0899-orderly-queue/) | Hard |
 | [0910-smallest-range-ii](https://github.com/sehaj141/myrepository/tree/main/0910-smallest-range-ii/) | Medium |
@@ -3570,6 +3571,7 @@ Contribution: 2026-01-05 20:02
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/sehaj141/myrepository/tree/main/0836-rectangle-overlap/) | Easy |
 | [0939-minimum-area-rectangle](https://github.com/sehaj141/myrepository/tree/main/0939-minimum-area-rectangle/) | Medium |
 | [0963-minimum-area-rectangle-ii](https://github.com/sehaj141/myrepository/tree/main/0963-minimum-area-rectangle-ii/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/sehaj141/myrepository/tree/main/0973-k-closest-points-to-origin/) | Medium |
