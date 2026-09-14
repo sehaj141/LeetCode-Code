@@ -3188,6 +3188,7 @@ Contribution: 2026-01-05 20:02
 | [0973-k-closest-points-to-origin](https://github.com/sehaj141/myrepository/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/sehaj141/myrepository/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sehaj141/myrepository/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0983-minimum-cost-for-tickets](https://github.com/sehaj141/myrepository/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1029-two-city-scheduling](https://github.com/sehaj141/myrepository/tree/main/1029-two-city-scheduling/) | Medium |
 | [1037-valid-boomerang](https://github.com/sehaj141/myrepository/tree/main/1037-valid-boomerang/) | Easy |
 | [1054-distant-barcodes](https://github.com/sehaj141/myrepository/tree/main/1054-distant-barcodes/) | Medium |
@@ -3274,6 +3275,7 @@ Contribution: 2026-01-05 20:02
 | [0926-flip-string-to-monotone-increasing](https://github.com/sehaj141/myrepository/tree/main/0926-flip-string-to-monotone-increasing/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/sehaj141/myrepository/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0935-knight-dialer](https://github.com/sehaj141/myrepository/tree/main/0935-knight-dialer/) | Medium |
+| [0983-minimum-cost-for-tickets](https://github.com/sehaj141/myrepository/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1140-stone-game-ii](https://github.com/sehaj141/myrepository/tree/main/1140-stone-game-ii/) | Medium |
 | [1363-largest-multiple-of-three](https://github.com/sehaj141/myrepository/tree/main/1363-largest-multiple-of-three/) | Hard |
 | [1395-count-number-of-teams](https://github.com/sehaj141/myrepository/tree/main/1395-count-number-of-teams/) | Medium |
