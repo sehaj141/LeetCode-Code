@@ -3279,6 +3279,7 @@ Contribution: 2026-01-05 20:02
 | [1140-stone-game-ii](https://github.com/sehaj141/myrepository/tree/main/1140-stone-game-ii/) | Medium |
 | [1363-largest-multiple-of-three](https://github.com/sehaj141/myrepository/tree/main/1363-largest-multiple-of-three/) | Hard |
 | [1395-count-number-of-teams](https://github.com/sehaj141/myrepository/tree/main/1395-count-number-of-teams/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sehaj141/myrepository/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2484-count-palindromic-subsequences](https://github.com/sehaj141/myrepository/tree/main/2484-count-palindromic-subsequences/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sehaj141/myrepository/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Sorting
@@ -3391,6 +3392,7 @@ Contribution: 2026-01-05 20:02
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sehaj141/myrepository/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/sehaj141/myrepository/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sehaj141/myrepository/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sehaj141/myrepository/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2484-count-palindromic-subsequences](https://github.com/sehaj141/myrepository/tree/main/2484-count-palindromic-subsequences/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sehaj141/myrepository/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sehaj141/myrepository/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -3430,6 +3432,7 @@ Contribution: 2026-01-05 20:02
 | [0922-sort-array-by-parity-ii](https://github.com/sehaj141/myrepository/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0969-pancake-sorting](https://github.com/sehaj141/myrepository/tree/main/0969-pancake-sorting/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sehaj141/myrepository/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sehaj141/myrepository/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sehaj141/myrepository/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -3457,6 +3460,7 @@ Contribution: 2026-01-05 20:02
 | [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/sehaj141/myrepository/tree/main/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/sehaj141/myrepository/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/sehaj141/myrepository/tree/main/1969-minimum-non-zero-product-of-the-array-elements/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sehaj141/myrepository/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sehaj141/myrepository/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
