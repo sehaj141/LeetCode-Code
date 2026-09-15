@@ -3384,6 +3384,7 @@ Contribution: 2026-01-05 20:02
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sehaj141/myrepository/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0926-flip-string-to-monotone-increasing](https://github.com/sehaj141/myrepository/tree/main/0926-flip-string-to-monotone-increasing/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/sehaj141/myrepository/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/sehaj141/myrepository/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 | [1366-rank-teams-by-votes](https://github.com/sehaj141/myrepository/tree/main/1366-rank-teams-by-votes/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/sehaj141/myrepository/tree/main/1392-longest-happy-prefix/) | Hard |
 | [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/sehaj141/myrepository/tree/main/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/) | Hard |
@@ -3696,12 +3697,14 @@ Contribution: 2026-01-05 20:02
 | ------- | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sehaj141/myrepository/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/sehaj141/myrepository/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/sehaj141/myrepository/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sehaj141/myrepository/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1020-number-of-enclaves](https://github.com/sehaj141/myrepository/tree/main/1020-number-of-enclaves/) | Medium |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/sehaj141/myrepository/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/sehaj141/myrepository/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -3712,6 +3715,7 @@ Contribution: 2026-01-05 20:02
 | ------- | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sehaj141/myrepository/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/sehaj141/myrepository/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
+| [1028-recover-a-tree-from-preorder-traversal](https://github.com/sehaj141/myrepository/tree/main/1028-recover-a-tree-from-preorder-traversal/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
