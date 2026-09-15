@@ -3189,6 +3189,7 @@ Contribution: 2026-01-05 20:02
 | [0976-largest-perimeter-triangle](https://github.com/sehaj141/myrepository/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sehaj141/myrepository/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0983-minimum-cost-for-tickets](https://github.com/sehaj141/myrepository/tree/main/0983-minimum-cost-for-tickets/) | Medium |
+| [1020-number-of-enclaves](https://github.com/sehaj141/myrepository/tree/main/1020-number-of-enclaves/) | Medium |
 | [1029-two-city-scheduling](https://github.com/sehaj141/myrepository/tree/main/1029-two-city-scheduling/) | Medium |
 | [1037-valid-boomerang](https://github.com/sehaj141/myrepository/tree/main/1037-valid-boomerang/) | Easy |
 | [1054-distant-barcodes](https://github.com/sehaj141/myrepository/tree/main/1054-distant-barcodes/) | Medium |
@@ -3470,6 +3471,7 @@ Contribution: 2026-01-05 20:02
 | [0741-cherry-pickup](https://github.com/sehaj141/myrepository/tree/main/0741-cherry-pickup/) | Hard |
 | [0835-image-overlap](https://github.com/sehaj141/myrepository/tree/main/0835-image-overlap/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/sehaj141/myrepository/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [1020-number-of-enclaves](https://github.com/sehaj141/myrepository/tree/main/1020-number-of-enclaves/) | Medium |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/sehaj141/myrepository/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/sehaj141/myrepository/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Reservoir Sampling
@@ -3697,10 +3699,12 @@ Contribution: 2026-01-05 20:02
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sehaj141/myrepository/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1020-number-of-enclaves](https://github.com/sehaj141/myrepository/tree/main/1020-number-of-enclaves/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sehaj141/myrepository/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1020-number-of-enclaves](https://github.com/sehaj141/myrepository/tree/main/1020-number-of-enclaves/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -3713,6 +3717,7 @@ Contribution: 2026-01-05 20:02
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/sehaj141/myrepository/tree/main/0952-largest-component-size-by-common-factor/) | Hard |
+| [1020-number-of-enclaves](https://github.com/sehaj141/myrepository/tree/main/1020-number-of-enclaves/) | Medium |
 ## Prime Factorization
 | Problem Name | Difficulty |
 | ------- | ------- |
