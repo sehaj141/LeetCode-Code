@@ -3695,11 +3695,13 @@ Contribution: 2026-01-05 20:02
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sehaj141/myrepository/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/sehaj141/myrepository/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sehaj141/myrepository/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1020-number-of-enclaves](https://github.com/sehaj141/myrepository/tree/main/1020-number-of-enclaves/) | Medium |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/sehaj141/myrepository/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -3709,6 +3711,7 @@ Contribution: 2026-01-05 20:02
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sehaj141/myrepository/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/sehaj141/myrepository/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
