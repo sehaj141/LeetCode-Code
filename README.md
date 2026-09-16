@@ -3213,6 +3213,7 @@ Contribution: 2026-01-05 20:02
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sehaj141/myrepository/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sehaj141/myrepository/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/sehaj141/myrepository/tree/main/3034-number-of-subarrays-that-match-a-pattern-i/) | Medium |
+| [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/sehaj141/myrepository/tree/main/3036-number-of-subarrays-that-match-a-pattern-ii/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sehaj141/myrepository/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sehaj141/myrepository/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sehaj141/myrepository/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -3530,6 +3531,7 @@ Contribution: 2026-01-05 20:02
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/sehaj141/myrepository/tree/main/3029-minimum-time-to-revert-word-to-initial-state-i/) | Medium |
 | [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/sehaj141/myrepository/tree/main/3031-minimum-time-to-revert-word-to-initial-state-ii/) | Hard |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/sehaj141/myrepository/tree/main/3034-number-of-subarrays-that-match-a-pattern-i/) | Medium |
+| [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/sehaj141/myrepository/tree/main/3036-number-of-subarrays-that-match-a-pattern-ii/) | Hard |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -3554,6 +3556,7 @@ Contribution: 2026-01-05 20:02
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/sehaj141/myrepository/tree/main/3029-minimum-time-to-revert-word-to-initial-state-i/) | Medium |
 | [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/sehaj141/myrepository/tree/main/3031-minimum-time-to-revert-word-to-initial-state-ii/) | Hard |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/sehaj141/myrepository/tree/main/3034-number-of-subarrays-that-match-a-pattern-i/) | Medium |
+| [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/sehaj141/myrepository/tree/main/3036-number-of-subarrays-that-match-a-pattern-ii/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -3561,6 +3564,7 @@ Contribution: 2026-01-05 20:02
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/sehaj141/myrepository/tree/main/3029-minimum-time-to-revert-word-to-initial-state-i/) | Medium |
 | [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/sehaj141/myrepository/tree/main/3031-minimum-time-to-revert-word-to-initial-state-ii/) | Hard |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/sehaj141/myrepository/tree/main/3034-number-of-subarrays-that-match-a-pattern-i/) | Medium |
+| [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/sehaj141/myrepository/tree/main/3036-number-of-subarrays-that-match-a-pattern-ii/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
