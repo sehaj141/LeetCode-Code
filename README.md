@@ -3398,6 +3398,7 @@ Contribution: 2026-01-05 20:02
 | [2484-count-palindromic-subsequences](https://github.com/sehaj141/myrepository/tree/main/2484-count-palindromic-subsequences/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sehaj141/myrepository/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/sehaj141/myrepository/tree/main/3029-minimum-time-to-revert-word-to-initial-state-i/) | Medium |
+| [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/sehaj141/myrepository/tree/main/3031-minimum-time-to-revert-word-to-initial-state-ii/) | Hard |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sehaj141/myrepository/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sehaj141/myrepository/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sehaj141/myrepository/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
@@ -3526,6 +3527,7 @@ Contribution: 2026-01-05 20:02
 | [0796-rotate-string](https://github.com/sehaj141/myrepository/tree/main/0796-rotate-string/) | Easy |
 | [1392-longest-happy-prefix](https://github.com/sehaj141/myrepository/tree/main/1392-longest-happy-prefix/) | Hard |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/sehaj141/myrepository/tree/main/3029-minimum-time-to-revert-word-to-initial-state-i/) | Medium |
+| [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/sehaj141/myrepository/tree/main/3031-minimum-time-to-revert-word-to-initial-state-ii/) | Hard |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -3548,11 +3550,13 @@ Contribution: 2026-01-05 20:02
 | ------- | ------- |
 | [1392-longest-happy-prefix](https://github.com/sehaj141/myrepository/tree/main/1392-longest-happy-prefix/) | Hard |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/sehaj141/myrepository/tree/main/3029-minimum-time-to-revert-word-to-initial-state-i/) | Medium |
+| [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/sehaj141/myrepository/tree/main/3031-minimum-time-to-revert-word-to-initial-state-ii/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1392-longest-happy-prefix](https://github.com/sehaj141/myrepository/tree/main/1392-longest-happy-prefix/) | Hard |
 | [3029-minimum-time-to-revert-word-to-initial-state-i](https://github.com/sehaj141/myrepository/tree/main/3029-minimum-time-to-revert-word-to-initial-state-i/) | Medium |
+| [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/sehaj141/myrepository/tree/main/3031-minimum-time-to-revert-word-to-initial-state-ii/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
