@@ -3324,6 +3324,7 @@ Contribution: 2026-01-05 20:02
 | [1363-largest-multiple-of-three](https://github.com/sehaj141/myrepository/tree/main/1363-largest-multiple-of-three/) | Hard |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sehaj141/myrepository/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1366-rank-teams-by-votes](https://github.com/sehaj141/myrepository/tree/main/1366-rank-teams-by-votes/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sehaj141/myrepository/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/sehaj141/myrepository/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/sehaj141/myrepository/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sehaj141/myrepository/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
@@ -3355,6 +3356,7 @@ Contribution: 2026-01-05 20:02
 | [1366-rank-teams-by-votes](https://github.com/sehaj141/myrepository/tree/main/1366-rank-teams-by-votes/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/sehaj141/myrepository/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sehaj141/myrepository/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sehaj141/myrepository/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/sehaj141/myrepository/tree/main/1737-change-minimum-characters-to-satisfy-one-of-three-conditions/) | Medium |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sehaj141/myrepository/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/sehaj141/myrepository/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -3396,6 +3398,7 @@ Contribution: 2026-01-05 20:02
 | [1366-rank-teams-by-votes](https://github.com/sehaj141/myrepository/tree/main/1366-rank-teams-by-votes/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/sehaj141/myrepository/tree/main/1392-longest-happy-prefix/) | Hard |
 | [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/sehaj141/myrepository/tree/main/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/) | Hard |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sehaj141/myrepository/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sehaj141/myrepository/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1737-change-minimum-characters-to-satisfy-one-of-three-conditions](https://github.com/sehaj141/myrepository/tree/main/1737-change-minimum-characters-to-satisfy-one-of-three-conditions/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/sehaj141/myrepository/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
@@ -3472,6 +3475,7 @@ Contribution: 2026-01-05 20:02
 | [1363-largest-multiple-of-three](https://github.com/sehaj141/myrepository/tree/main/1363-largest-multiple-of-three/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/sehaj141/myrepository/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/sehaj141/myrepository/tree/main/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/) | Hard |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sehaj141/myrepository/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1903-largest-odd-number-in-string](https://github.com/sehaj141/myrepository/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/sehaj141/myrepository/tree/main/1969-minimum-non-zero-product-of-the-array-elements/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sehaj141/myrepository/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
