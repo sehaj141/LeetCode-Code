@@ -3224,6 +3224,7 @@ Contribution: 2026-01-05 20:02
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/sehaj141/myrepository/tree/main/0013-roman-to-integer/) | Easy |
+| [0050-powx-n](https://github.com/sehaj141/myrepository/tree/main/0050-powx-n/) | Medium |
 | [0398-random-pick-index](https://github.com/sehaj141/myrepository/tree/main/0398-random-pick-index/) | Medium |
 | [0400-nth-digit](https://github.com/sehaj141/myrepository/tree/main/0400-nth-digit/) | Medium |
 | [0553-optimal-division](https://github.com/sehaj141/myrepository/tree/main/0553-optimal-division/) | Medium |
@@ -3773,6 +3774,7 @@ Contribution: 2026-01-05 20:02
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/sehaj141/myrepository/tree/main/0050-powx-n/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sehaj141/myrepository/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1922-count-good-numbers](https://github.com/sehaj141/myrepository/tree/main/1922-count-good-numbers/) | Medium |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/sehaj141/myrepository/tree/main/1969-minimum-non-zero-product-of-the-array-elements/) | Medium |
