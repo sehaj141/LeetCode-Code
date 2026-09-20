@@ -3414,6 +3414,7 @@ Contribution: 2026-01-05 20:02
 | [3031-minimum-time-to-revert-word-to-initial-state-ii](https://github.com/sehaj141/myrepository/tree/main/3031-minimum-time-to-revert-word-to-initial-state-ii/) | Hard |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sehaj141/myrepository/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sehaj141/myrepository/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3498-reverse-degree-of-a-string](https://github.com/sehaj141/myrepository/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sehaj141/myrepository/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -3698,6 +3699,7 @@ Contribution: 2026-01-05 20:02
 | ------- | ------- |
 | [1409-queries-on-a-permutation-with-key](https://github.com/sehaj141/myrepository/tree/main/1409-queries-on-a-permutation-with-key/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/sehaj141/myrepository/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/sehaj141/myrepository/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Sqrt Decomposition
 | Problem Name | Difficulty |
 | ------- | ------- |
