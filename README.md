@@ -3218,6 +3218,7 @@ Contribution: 2026-01-05 20:02
 | [3036-number-of-subarrays-that-match-a-pattern-ii](https://github.com/sehaj141/myrepository/tree/main/3036-number-of-subarrays-that-match-a-pattern-ii/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sehaj141/myrepository/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/sehaj141/myrepository/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3525-find-x-value-of-array-ii](https://github.com/sehaj141/myrepository/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sehaj141/myrepository/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/sehaj141/myrepository/tree/main/3731-find-missing-elements/) | Easy |
 ## Math
@@ -3258,6 +3259,7 @@ Contribution: 2026-01-05 20:02
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/sehaj141/myrepository/tree/main/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sehaj141/myrepository/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sehaj141/myrepository/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3525-find-x-value-of-array-ii](https://github.com/sehaj141/myrepository/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -3674,6 +3676,7 @@ Contribution: 2026-01-05 20:02
 | [1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits](https://github.com/sehaj141/myrepository/tree/main/1505-minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/) | Hard |
 | [1649-create-sorted-array-through-instructions](https://github.com/sehaj141/myrepository/tree/main/1649-create-sorted-array-through-instructions/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sehaj141/myrepository/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [3525-find-x-value-of-array-ii](https://github.com/sehaj141/myrepository/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
