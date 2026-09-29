@@ -3212,6 +3212,7 @@ Contribution: 2026-01-05 20:02
 | [2094-finding-3-digit-even-numbers](https://github.com/sehaj141/myrepository/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/sehaj141/myrepository/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/sehaj141/myrepository/tree/main/2249-count-lattice-points-inside-a-circle/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sehaj141/myrepository/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/sehaj141/myrepository/tree/main/2280-minimum-lines-to-represent-a-line-chart/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sehaj141/myrepository/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/sehaj141/myrepository/tree/main/3034-number-of-subarrays-that-match-a-pattern-i/) | Medium |
@@ -3290,6 +3291,7 @@ Contribution: 2026-01-05 20:02
 | [1363-largest-multiple-of-three](https://github.com/sehaj141/myrepository/tree/main/1363-largest-multiple-of-three/) | Hard |
 | [1395-count-number-of-teams](https://github.com/sehaj141/myrepository/tree/main/1395-count-number-of-teams/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sehaj141/myrepository/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sehaj141/myrepository/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/sehaj141/myrepository/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2484-count-palindromic-subsequences](https://github.com/sehaj141/myrepository/tree/main/2484-count-palindromic-subsequences/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/sehaj141/myrepository/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -3499,6 +3501,7 @@ Contribution: 2026-01-05 20:02
 | [1020-number-of-enclaves](https://github.com/sehaj141/myrepository/tree/main/1020-number-of-enclaves/) | Medium |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/sehaj141/myrepository/tree/main/1738-find-kth-largest-xor-coordinate-value/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/sehaj141/myrepository/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sehaj141/myrepository/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Reservoir Sampling
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -3542,6 +3545,7 @@ Contribution: 2026-01-05 20:02
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sehaj141/myrepository/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/sehaj141/myrepository/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sehaj141/myrepository/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/sehaj141/myrepository/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
