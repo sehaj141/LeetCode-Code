@@ -3265,6 +3265,7 @@ Contribution: 2026-01-05 20:02
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sehaj141/myrepository/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/sehaj141/myrepository/tree/main/0022-generate-parentheses/) | Medium |
 | [0045-jump-game-ii](https://github.com/sehaj141/myrepository/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/sehaj141/myrepository/tree/main/0055-jump-game/) | Medium |
 | [0115-distinct-subsequences](https://github.com/sehaj141/myrepository/tree/main/0115-distinct-subsequences/) | Hard |
@@ -3382,6 +3383,7 @@ Contribution: 2026-01-05 20:02
 | [0013-roman-to-integer](https://github.com/sehaj141/myrepository/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/sehaj141/myrepository/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/sehaj141/myrepository/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/sehaj141/myrepository/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sehaj141/myrepository/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0038-count-and-say](https://github.com/sehaj141/myrepository/tree/main/0038-count-and-say/) | Medium |
 | [0115-distinct-subsequences](https://github.com/sehaj141/myrepository/tree/main/0115-distinct-subsequences/) | Hard |
@@ -3544,6 +3546,7 @@ Contribution: 2026-01-05 20:02
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sehaj141/myrepository/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/sehaj141/myrepository/tree/main/0022-generate-parentheses/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/sehaj141/myrepository/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sehaj141/myrepository/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/sehaj141/myrepository/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -3596,6 +3599,7 @@ Contribution: 2026-01-05 20:02
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/sehaj141/myrepository/tree/main/0022-generate-parentheses/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/sehaj141/myrepository/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sehaj141/myrepository/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Number Theory
