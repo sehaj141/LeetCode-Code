@@ -3400,6 +3400,7 @@ Contribution: 2026-01-05 20:02
 | [0796-rotate-string](https://github.com/sehaj141/myrepository/tree/main/0796-rotate-string/) | Easy |
 | [0820-short-encoding-of-words](https://github.com/sehaj141/myrepository/tree/main/0820-short-encoding-of-words/) | Medium |
 | [0828-count-unique-characters-of-all-substrings-of-a-given-string](https://github.com/sehaj141/myrepository/tree/main/0828-count-unique-characters-of-all-substrings-of-a-given-string/) | Hard |
+| [0856-score-of-parentheses](https://github.com/sehaj141/myrepository/tree/main/0856-score-of-parentheses/) | Medium |
 | [0893-groups-of-special-equivalent-strings](https://github.com/sehaj141/myrepository/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0899-orderly-queue](https://github.com/sehaj141/myrepository/tree/main/0899-orderly-queue/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sehaj141/myrepository/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -3538,6 +3539,7 @@ Contribution: 2026-01-05 20:02
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/sehaj141/myrepository/tree/main/0020-valid-parentheses/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/sehaj141/myrepository/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/sehaj141/myrepository/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sehaj141/myrepository/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/sehaj141/myrepository/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/sehaj141/myrepository/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -3548,6 +3550,7 @@ Contribution: 2026-01-05 20:02
 | [0020-valid-parentheses](https://github.com/sehaj141/myrepository/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/sehaj141/myrepository/tree/main/0022-generate-parentheses/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/sehaj141/myrepository/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/sehaj141/myrepository/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sehaj141/myrepository/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/sehaj141/myrepository/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sehaj141/myrepository/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
